@@ -8,6 +8,11 @@
 	<name>Spring Web Flow Samples</name>
 	<version>1.0.0.BUILD-SNAPSHOT</version>
 
+	<plugin>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-surefire-plugin</artifactId>
+    <version>3.0.0-M1</version>
+</plugin>
 	<modules>
 		<module>booking-mvc</module>
 		<module>booking-faces</module>
