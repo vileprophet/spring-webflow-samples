@@ -39,7 +39,7 @@
 				<groupId>org.springframework</groupId>
 				<artifactId>spring-framework-bom</artifactId>
 				<version>5.1.7.RELEASE</version>
-				<type>pom</type>
+				<type>war</type>
 				<scope>import</scope>
 			</dependency>
 			<dependency>
