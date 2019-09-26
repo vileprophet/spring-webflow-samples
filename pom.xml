@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.springframework.webflow</groupId>
 	<artifactId>spring-webflow-samples</artifactId>
-	<packaging>war</packaging>
+	<packaging>pom</packaging>
 	<name>Spring Web Flow Samples</name>
 	<version>1.0.0.BUILD-SNAPSHOT</version>
 
